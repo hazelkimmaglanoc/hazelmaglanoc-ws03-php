@@ -1,0 +1,10 @@
+{
+    "name": "hazelmaglanoc/jobseeker-php",
+    "description": "Job seeker application",
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    }
+}
